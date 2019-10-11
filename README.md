@@ -1,6 +1,6 @@
 
 # Supported Champions
-Ezreal - Jinx - Viktor - Yasuo - Ahri - Cassiopeia - Kai'Sa - Kassadin - LeBlanc - Sylas - Varus - Xayah - 
+Ezreal - Jinx - Viktor - Yasuo - Ahri - Cassiopeia - Kai'Sa - Kassadin - LeBlanc - Sylas - Varus - Xayah - Katarina
 # Supported Utilities
 Troll Chat xD - BaseUlt
 # Why Am I Banned ?
