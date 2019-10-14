@@ -4,7 +4,7 @@ Ezreal - Jinx - Viktor - Yasuo - Ahri - Cassiopeia - Kai'Sa - Kassadin - LeBlanc
 # Supported Utilities
 Troll Chat xD - BaseUlt - Excellent Smite
 # Why Am I Banned ?
-- I banned SeaviceMonster from my Discord Server for bad behaviours. And he banned me from official EnsoulSharp Discord. This is the story.
+- I banned SeaviceMonster from my Discord Server for bad behaviours. And he banned me from official EnsoulSharp Discord for no reason. This is the story.
 # We never said we were an official EnsoulSharp Discord Server. Stop lying. 
 - We are just against dictators like SeaviceMonster#1333. If you don't like him and to receive news updates of best scripts. You can join us.
 # Here is the proof:
