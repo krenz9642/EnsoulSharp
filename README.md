@@ -9,7 +9,7 @@ Troll Chat xD - BaseUlt - Excellent Smite
 - We are just against dictators like SeaviceMonster#1333. If you don't like him and to receive news updates of best scripts. You can join us.
 # Here is the proof:
 ![alt text](https://github.com/xDreamms/EnsoulSharp/raw/master/Screenshot_7.png)
-Discord invites has been closed for now. If you want to reach me my discord: xDreamms#5201
+If you want to play with my scripts join us.
 <p align="center">
   <a href="https://discord.gg/7kgbFYg">
     <h1> My discord server: </h1>
