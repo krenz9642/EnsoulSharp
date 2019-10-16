@@ -10,10 +10,10 @@ Troll Chat xD - BaseUlt - Excellent Smite
 # Here is the proof:
 ![alt text](https://github.com/xDreamms/EnsoulSharp/raw/master/Screenshot_7.png)
 # Now I have auth system.
-People only in my discord server can play with my scripts.
+People only in my discord server can play with my scripts.Discord invites have been closed for now. If you wanna join my discord server reach me on Discord xDreamms#5201 
 # EnsoulSharp Database
 http://authelitesharp.somee.com/ChampionAddons.html
-Discord invites have been closed for now. If you wanna join my discord server reach me on Discord xDreamms#5201 
+
 <p align="center">
   <a href="https://discord.gg/7kgbFYg">
     <h1> My discord server: </h1>
