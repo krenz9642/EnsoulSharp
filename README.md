@@ -7,6 +7,9 @@ Troll Chat xD - BaseUlt - Excellent Smite
 # EnsoulSharp Addons Database
 http://authelitesharp.somee.com/ChampionAddons.html
 
+# Auth
+If you want to use my scripts reach me on Discord xDreamms#5201
+
 <p align="center">
   <a href="https://discord.gg/7kgbFYg">
     <h1> My discord server: </h1>
