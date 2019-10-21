@@ -8,7 +8,7 @@ Troll Chat xD - BaseUlt - Excellent Smite
 http://authelitesharp.somee.com/ChampionAddons.html
 
 # Auth
-If you want to use my scripts reach me on Discord xDreamms#5201
+If you want to use my scripts join my server.
 
 <p align="center">
   <a href="https://discord.gg/rFVeJ5a">
