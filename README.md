@@ -1,6 +1,6 @@
 
 # Supported Champions
-Ezreal - Jinx - Viktor - Yasuo - Ahri - Cassiopeia - Kai'Sa - Kassadin - LeBlanc - Sylas - Varus - Xayah - Katarina
+Ezreal - Jinx - Viktor - Yasuo - Ahri - Cassiopeia - Kai'Sa - Kassadin - LeBlanc - Sylas - Varus - Xayah - Katarina - Syndra
 # Supported Utilities
 Troll Chat xD - BaseUlt - Excellent Smite
 
