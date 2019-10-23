@@ -11,7 +11,7 @@ http://authelitesharp.somee.com/ChampionAddons.html
 If you want to use my scripts join my server. If invite link is invalid, add me on Discord xDreamms#5201
 
 <p align="center">
-  <a href="https://discord.gg/rFVeJ5a">
+  <a href="https://discord.gg/AG8MYEk">
     <h1> My discord server: </h1>
     <img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Discord Server">
   </a>
