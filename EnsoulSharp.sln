@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xDreamms.AIO", "xDreamms.AI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadaoActionsLimiter", "BadaoActionsLimiter\BadaoActionsLimiter.csproj", "{4463337A-84E9-4F13-9EB5-353542D08F63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPrediction", "SPrediction\SPrediction.csproj", "{025FBD06-C2C6-4DC8-B2B0-7847D345E184}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4463337A-84E9-4F13-9EB5-353542D08F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4463337A-84E9-4F13-9EB5-353542D08F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4463337A-84E9-4F13-9EB5-353542D08F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025FBD06-C2C6-4DC8-B2B0-7847D345E184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025FBD06-C2C6-4DC8-B2B0-7847D345E184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025FBD06-C2C6-4DC8-B2B0-7847D345E184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025FBD06-C2C6-4DC8-B2B0-7847D345E184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
