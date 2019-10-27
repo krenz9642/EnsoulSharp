@@ -4,4 +4,4 @@ Ezreal - Jinx - Viktor - Yasuo - Ahri - Cassiopeia - Kai'Sa - Kassadin - LeBlanc
 Troll Chat xD - BaseUlt - Excellent Smite
 
 # EnsoulSharp Addons Database
-http://authelitesharp.somee.com/
+http://ensouldb.somee.com/
