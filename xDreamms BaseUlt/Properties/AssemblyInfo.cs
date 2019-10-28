@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BadaoActionsLimiter")]
+[assembly: AssemblyTitle("xDreamms BaseUlt")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BadaoActionsLimiter")]
+[assembly: AssemblyProduct("xDreamms BaseUlt")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ef54c1b1-a47a-4e34-ada9-062a0eed1a45")]
+[assembly: Guid("49fea1b8-32dc-45b2-b8f5-8f3cf4b0ebb8")]
 
 // Version information for an assembly consists of the following four values:
 //
